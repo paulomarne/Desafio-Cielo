@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Doações App</string>
+    <string name="instituicoes_title">Escolha uma Instituição</string>
+    <string name="doacao_title">Fazer Doação</string>
+    <string name="pagamento_title">Pagamento</string>
+    <string name="confirmacao_title">Confirmação</string>
+    
+    <string name="valor_doacao">Valor da Doação</string>
+    <string name="valor_personalizado">Valor Personalizado</string>
+    <string name="continuar">Continuar</string>
+    <string name="doar_agora">Doar Agora</string>
+    <string name="nova_doacao">Nova Doação</string>
+    <string name="voltar">Voltar</string>
+    
+    <string name="pagamento_processando">Processando pagamento...</string>
+    <string name="pagamento_sucesso">Pagamento realizado com sucesso!</string>
+    <string name="pagamento_erro">Erro no pagamento. Tente novamente.</string>
+    
+    <string name="doacao_confirmada">Doação Confirmada!</string>
+    <string name="obrigado_doacao">Obrigado por sua generosidade!</string>
+    <string name="comprovante_enviado">Comprovante enviado por email</string>
+    
+    <string name="error_valor_invalido">Por favor, insira um valor válido</string>
+    <string name="error_valor_minimo">Valor mínimo: R$ 5,00</string>
+</resources>
